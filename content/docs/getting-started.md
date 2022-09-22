@@ -24,7 +24,7 @@ This page is an overview of the React documentation and related resources.
 
 ---
 
-- [Try React](#try-react)
+- [Try React](#try-react) 
 - [Learn React](#learn-react)
 - [Staying Informed](#staying-informed)
 - [Versioned Documentation](#versioned-documentation)
@@ -32,7 +32,7 @@ This page is an overview of the React documentation and related resources.
 
 ## Try React {#try-react}
 
-React has been designed from the start for gradual adoption, and **you can use as little or as much React as you need.** Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
+React has been designed from the start for gradual adoption, and **you can use as little or as much React as you need.** Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start export default App;a complex React-powered app, the links in this section will help you get started.
 
 ### Online Playgrounds {#online-playgrounds}
 
